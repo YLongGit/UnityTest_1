@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Scene01
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cfc0c07eec68b4444a2370d12bb34255, type: 3}
+    totalSpriteSurfaceArea: 1107456
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f293c04252930d04caf9a8cceb445df1, type: 3}
+  - {fileID: 21300000, guid: 88c07a8209f4ba2488fbce69e32eae48, type: 3}
+  - {fileID: 21300000, guid: f9f07a82a8e6e2642b67afbe2ba85187, type: 3}
+  - {fileID: 21300000, guid: 7119a6c2c9048b24f9afd68659f7d533, type: 3}
+  - {fileID: 21300000, guid: aecc6b550fcfc3d4db41627705eed1db, type: 3}
+  - {fileID: 21300000, guid: 5f1d4c95205a5fb4eb6af9d7083fa2a7, type: 3}
+  - {fileID: 21300000, guid: 0fcbce168e27724429826b29a21f3d56, type: 3}
+  - {fileID: 21300000, guid: 1920b317cf0c5334996856c69b2c7c36, type: 3}
+  - {fileID: 21300000, guid: 67a09b3730f9f2f42b21c56ec7dff3bb, type: 3}
+  - {fileID: 21300000, guid: 2eb03177010f50c47b78df6a0b34cc3d, type: 3}
+  - {fileID: 21300000, guid: bacbd4d7c2a749946938fd0785239d1b, type: 3}
+  - {fileID: 21300000, guid: 89fe46e8e6fe3fa4a9ce1746d5e6300f, type: 3}
+  - {fileID: 21300000, guid: a9099549fb405f34eaedb253ac26307d, type: 3}
+  - {fileID: 21300000, guid: a89e55d91b735dd409122fc8c7581d8e, type: 3}
+  - {fileID: 21300000, guid: 7a1f4cf9383c1d9418a7780c6946d78a, type: 3}
+  - {fileID: 21300000, guid: ebb2d00ad29e19f49a6e3f156b568ccc, type: 3}
+  - {fileID: 21300000, guid: 1348f92c874f44f4c8dd1b99c706bc5b, type: 3}
+  - {fileID: 21300000, guid: ac8ed58cc1eba414d9175268256c3420, type: 3}
+  - {fileID: 21300000, guid: 8b29ae9de81e9754e881d132029c41d5, type: 3}
+  - {fileID: 21300000, guid: 73b02dfd66b1b1d4b92216c2dd601a8d, type: 3}
+  - {fileID: 21300000, guid: 41b4e53ebecc4dc428849adbd25403f6, type: 3}
+  - {fileID: 21300000, guid: d3c615fe42c119045aae8a74dfbec7c6, type: 3}
+  - {fileID: 21300000, guid: b767130ff28bb1040819cbfe8d393e08, type: 3}
+  - {fileID: 21300000, guid: e39ca0df2081345479551faaa9eabaa3, type: 3}
+  - {fileID: 21300000, guid: 5bf38ec02c3d3d04caf9055dbad827e3, type: 3}
+  - {fileID: 21300000, guid: 480b59522ae8bac4cb5187090a4384ce, type: 3}
+  - {fileID: 21300000, guid: ce204965806052d4d9ee4379961c0a14, type: 3}
+  - {fileID: 21300000, guid: 7cc09026247c2ec439bf0bbc83af391d, type: 3}
+  - {fileID: 21300000, guid: 86adbe8ac91bf2044a1f0422e43a7e4c, type: 3}
+  - {fileID: 21300000, guid: abb5d63b7db6293458967c0ea602f33e, type: 3}
+  - {fileID: 21300000, guid: 143cd19bf35c1d94f9b5e8e4784ccf29, type: 3}
+  - {fileID: 21300000, guid: 6124106c85da42b4a906dc2188a6a1a9, type: 3}
+  - {fileID: 21300000, guid: 60cbf8cf0e2e72043bcd2c57bfb4be07, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - grid_flower_200_6
+  - grid_flower_200_4
+  - grid_flower_200_8
+  - grid_flower_200_14
+  - grid_flower_200_1
+  - grid_flower_200_16
+  - grid_flower_200_13
+  - grid_flower_200_21
+  - grid_flower_200_24
+  - grid_flower_200_18
+  - grid_flower_200_12
+  - grid_flower_200_9
+  - grid_flower_200_17
+  - grid_flower_200_5
+  - grid_flower_200_19
+  - grid_flower_200_2
+  - grid_flower_200_22
+  - grid_flower_200_10
+  - grid_flower_200_11
+  - grid_flower_200_15
+  - grid_flower_200_3
+  - grid_flower_200_7
+  - grid_flower_200_20
+  - grid_flower_200_23
+  - grid_pencil_128_g2
+  - grid_pencil_128_g5
+  - grid_pencil_128_g1
+  - grid_pencil_128_10
+  - grid_pencil_128_g6
+  - grid_pencil_128_g8
+  - grid_pencil_128_g3
+  - grid_pencil_128_g4
+  - grid_pencil_128_g9
+  m_Tag: Scene01
+  m_IsVariant: 0
